@@ -1,0 +1,7 @@
+is-show-message-to-player: true
+is-show-message-to-sender: false
+message:
+  player: '&6已设置你的无敌时间为&c %second% &6秒'
+  sender: '&6已成功设置目标玩家的无敌时间'
+  not-online: '&c玩家不在线 (或不存在)'
+  no-integer: '&c无效的无敌时间数值'

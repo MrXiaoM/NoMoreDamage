@@ -1,0 +1,7 @@
+name: NoMoreDamage
+main: top.mrxiaom.nomoredamage.Main
+version: 1.0
+author: MrXiaoM
+commands:
+  nomoredamage:
+    description: awa
